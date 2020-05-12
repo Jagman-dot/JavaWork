@@ -25,7 +25,7 @@ public class Main {
         System.out.println(two.getInstanceNumber());
         System.out.println(three.getInstanceNumber());
 
-
+        System.out.println(" ");
 
 
     }
